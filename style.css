@@ -1,0 +1,27 @@
+ul {
+	list-style-type: none;
+	margin: 0 auto;
+	width: 35%;
+	/*box-shadow: 5px 10px 8px #888888;*/
+}
+
+li {
+	border: 1px solid #000;
+	background: #FFF;
+	padding: 10px 5px 10px 5px;
+	text-align: left;
+}
+
+.title {
+	font-size: 100%;
+	text-align: center;
+	background: #3d38ff;
+	color: #FFF;
+}
+
+img {
+	width: 15%;
+	border-radius: 50%;
+	box-shadow: 5px 10px 8px #888888;
+	/*align-items: left;*/
+}
