@@ -1,4 +1,4 @@
-let users = ["p4ntz", "OgamingSC2", "slayerage", "freecodecamp", "timmac", "habathcx", "RobotCaleb", "clintstevens"];
+let users = ["p4ntz", "OgamingSC2", "slayerage", "freecodecamp", "timmac", "habathcx", "RobotCaleb", "clintstevens", "donthedeveloper"];
 let offline = [];
 let numUsers = users.length;
 let counter = 0;
